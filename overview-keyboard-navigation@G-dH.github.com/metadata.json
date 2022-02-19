@@ -1,5 +1,5 @@
 {
-  "description": "Fix for GNOME Shell 40 and 41 that initiates keyboard navigation keys in the Overview by pressing Tab or Arrow keys. It also changes Esc key behavior in the App Grid view - Esc closes the Overview instead of activating Windows Overview.",
+  "description": "Fix for GNOME Shell 40 and 41 that initiates keyboard navigation in the Activities overview and App Grid by pressing Tab or Arrow keys. It also changes Esc key behavior in the App Grid view - Esc closes the Overview instead of activating Windows Overview.",
   "gettext-domain": "overview-keyboard-navigation-fix",
   "name": "Overview Keyboard Navigation Fix",
   "shell-version": [
